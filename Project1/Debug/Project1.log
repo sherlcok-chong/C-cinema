@@ -1,0 +1,5 @@
+﻿  UI.cpp
+d:\学习资料\课程设计\project1\dal.h(231): warning C4101: “temp”: 未引用的局部变量
+d:\学习资料\课程设计\project1\bll.h(808): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习资料\课程设计\project1\ui.cpp(614): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> D:\学习资料\课程设计2.0\Debug\Project1.exe
